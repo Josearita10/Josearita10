@@ -1,0 +1,256 @@
+@charset "utf-8";
+@import url("../webfonts/Glory_VariableFont_wght/stylesheet.css");
+
+/* CSS Document */
+
+#cuerpo {
+	background-color: #93DB70;
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+}
+#encabeazado {
+	background-color: #83072D;
+	width: 100%;
+	float: left;
+}
+#logo {
+	background-color: #FFF;
+	float: left;
+	width: 20%;
+}
+#nombre {
+	background-color: #FFF;
+	float: left;
+	width: 60%;
+}
+#redes_y_contacto {
+	background-color: #FFF;
+	float: right;
+	width: 20%;
+}
+#redes {
+	background-color: #03F;
+	width: 100%;
+}
+#contacto {
+	background-color: #000;
+	float: left;
+	width: 100%;
+}
+#menu {
+	background-color: #903;
+	float: left;
+	width: 100%;
+}
+#contenido {
+	float: left;
+	width: 100%;
+	background-color: #FFF;
+}
+#anuncios {
+	background-color: #FFF;
+	float: left;
+	width: 100%;
+	color: #006;
+}
+
+#contenido#2 {
+	background-color: #000;
+	float: right;
+	width: 30%;
+}
+#contenido#2 {
+	background-color: #000;
+	float: left;
+	width: 100%;
+}
+#cuerpo #pie_de_pagina {
+	background-color: #6A0000;
+	float: left;
+	width: 100%;
+}
+#cuerpo #contenido#2 {
+}
+
+#cuerpo #contenido#2 {
+	background-color: #00FF00;
+}
+#menuinferior {
+	width: 30%;
+	margin-right: 3%;
+	float: left;
+}
+#baner_publicidad {
+	float: left;
+	width: 30%;
+	margin-right: 3%;
+}
+#cuerpo #contenido#2 #informacion {
+	float: right;
+	width: 30px;
+	margin-left: 3%;
+}
+#informacion {
+	float: right;
+	width: 30%;
+	margin-left: 3%;
+}
+
+
+
+
+#cuerpo #contenido .Textos_1 .Titulos1 {
+	background-color: #03F;
+}
+#Fanpage {
+	float: left;
+	width: 100%;
+}
+
+
+#nombre center img {
+	float: left;
+	width: 100%;
+}
+#Facebook {
+	float: left;
+	width: 25%;
+}
+#Instagram {
+	float: left;
+	width: 25%;
+}
+#Youtube {
+	float: left;
+	width: 25%;
+}
+#Tik_tok {
+	float: right;
+	width: 25%;
+}
+#Facebook {
+	float: left;
+	width: 100%;
+}
+#Instagram img {
+	float: left;
+	width: 100%;
+}
+#Youtube img {
+	float: left;
+	width: 100%;
+}
+#Tik_tok img {
+	float: right;
+	width: 100%;
+}
+.Textos1 {
+	font-family: "Glory VariableFont wght";
+	font-size: 18px;
+	color: #000042;
+	text-decoration: none;
+	text-align:justify;
+}
+.Titulos1 {
+	font-family: "Glory VariableFont wght";
+	font-size: 24px;
+	color: #005B5B;
+	text-decoration: none;
+}
+#cuerpo #contenido #noticia6 .Textos_1 {
+	font-size: 14px;
+}
+#cuerpo #contenido .Textos_1 .Titulos1 {
+	background-color: #FFF;
+}
+#cuerpo #contenido #noticia6 .Textos_1 a {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	color: #400080;
+}
+#cuerpo #contenido #noticia5 p span a {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	color: #400080;
+	text-decoration: none;
+}
+#cuerpo #contenido #noticia1 a {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	color: #8000FF;
+	text-decoration: none;
+}
+#cuerpo #contenido #noticia2 p .Textos1 a {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	color: #8000FF;
+}
+#cuerpo #contenido #noticia3 .Textos1 a {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	color: #8000FF;
+}
+#cuerpo #contenido #noticia2 p .Textos1 a {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	color: #8000FF;
+	text-decoration: none;
+}
+#cuerpo #contenido #noticia3 .Textos1 a {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	color: #8000FF;
+	text-decoration: none;
+}
+#cuerpo #contenido #noticia4 center p a {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	color: #8000FF;
+	text-decoration: none;
+}
+
+
+
+
+
+
+#cuerpo #contenido .Textos_1 img {
+	float: left;
+	width: 50%;
+}
+#cuerpo #contenido .Textos_1 .Titulos1 center img {
+	float: left;
+	width: 50%;
+	background-color: #9F0;
+}
+#menuinferior {
+	background-color: #9C3;
+}
+#baner_publicidad {
+	background-color: #9F0;
+}
+#informacion {
+	background-color: #9C0;
+}
+#menuinferior {
+	background-color: #9F0;
+}
+.Menuinferior {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	color: #C39;
+}
+
+
+
+
+
+#cuerpo #contenido .Textos_1 .Titulos1 center img {
+	float: left;
+	width: 50%;
+}
+#cuerpo #contenido .Textos_1 .Titulos1 center img {
+	float: left;
+	width: 50%;
+}

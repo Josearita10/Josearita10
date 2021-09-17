@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+#cuerpo #contenido #noticia2 {
+	float: left;
+	width: 46%;
+	margin-top: 15px;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+#cuerpo #contenido #noticia1 {
+	float: right;
+	width: 46%;
+	margin-top: 15px;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+#cuerpo #contenido #noticia3 {
+	float: left;
+	width: 96%;
+	margin-top: 15px;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+#cuerpo #contenido #noticia5 {
+	float: left;
+	width: 46%;
+	margin-top: 15px;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+#cuerpo #contenido #noticia4 {
+	float: right;
+	width: 46%;
+	margin-top: 15px;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+#cuerpo #contenido #noticia6 {
+	float: left;
+	width: 96%;
+	margin-top: 15px;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+#noticia6 center img {
+	background-color: #03F;
+}
